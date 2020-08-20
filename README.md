@@ -1,6 +1,6 @@
 #Screenshot
 
-![](output.gif)
+
 
 ## Getting Started
 
