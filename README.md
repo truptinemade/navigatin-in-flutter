@@ -1,6 +1,6 @@
-# FAB
+#Screenshot
 
-A new Flutter project.
+![](output.gif)
 
 ## Getting Started
 
